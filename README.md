@@ -36,6 +36,9 @@ público de mi código.
 | **Sistema de Catálogo Multimedia** | Permite registrar películas y 
  series de televisión, validando los datos de cada elemento y gestionando
  errores mediante una excepción personalizada | Excepciones personalizadas, Encapsulamiento y validación, Herencia e invocación de superclase, Sobrescritura de métodos especiales, Polimorfismo y filtrado, Control de flujo y manejo de errores|
+| **Cálculo de Descuentos Dinámicos** | sistema flexible para calcular el precio final 
+de un producto aplicando el mejor descuento disponible según el perfil del 
+usuario y las condiciones del producto.  | Clases Abstractas (`ABC`), Tipado Estático|
 | *(Próximo ejercicio)* | *(Descripción breve)* | *(Conceptos)* |
 
 ---
