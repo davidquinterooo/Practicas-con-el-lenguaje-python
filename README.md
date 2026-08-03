@@ -33,6 +33,9 @@ público de mi código.
 | Proyecto / Ejercicio | Descripción | Conceptos Aplicados |
 | :--- | :--- | :--- |
 | **Budget App (App de Presupuesto)** | Sistema para administrar gastos por categorías con recibos formateados y visualización gráfica. | POO, `__str__`, List Comprehension, Formateo de Strings, Manejo de Listas/Diccionarios. |
+| **Sistema de Catálogo Multimedia** | Permite registrar películas y 
+ series de televisión, validando los datos de cada elemento y gestionando
+ errores mediante una excepción personalizada | Excepciones personalizadas, Encapsulamiento y validación, Herencia e invocación de superclase, Sobrescritura de métodos especiales, Polimorfismo y filtrado, Control de flujo y manejo de errores|
 | *(Próximo ejercicio)* | *(Descripción breve)* | *(Conceptos)* |
 
 ---
