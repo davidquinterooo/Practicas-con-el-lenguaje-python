@@ -38,6 +38,7 @@ errores mediante una excepción personalizada | Excepciones personalizadas, Enca
 | **Cálculo de Descuentos Dinámicos** | sistema flexible para calcular el precio final de un producto aplicando el mejor descuento disponible según el perfil del usuario y las condiciones del producto.  | Clases Abstractas (`ABC`), Tipado Estático|
 | **Calculador de Área de Polígonos**| Creación de las clases Rectangle y Square para calcular áreas, perímetros, diagonales, representaciones gráficas con asteriscos (*) y determinar cuántas figuras pequeñas caben dentro de una más grande.| Herencia de clases (super()), Sobrescritura de métodos (Method Overriding), Métodos especiales (__str__), Encapsulación con métodos setters, Manipulación de cadenas y Operadores aritméticos de división entera (//).|
 | **square_root_bisection** | Calcula la raíz cuadrada aproximada de un número positivo usando el método numérico de bisección dentro de una tolerancia dada. | Bisección, Manejo de Excepciones, Bucles (for), Tolerancia de Error, Búsqueda Binaria. |
+| **Tabla Hash** | Implementación de una Tabla Hash en Python que almacena pares clave-valor. Utiliza una función hash basada en la suma del valor ASCII de cada carácter y resuelve las colisiones mediante encadenamiento (chaining), usando diccionarios anidados en la estructura collection. | ord(), Manejo de colisiones |
 | *(Próximo ejercicio)* | *(Descripción breve)* | *(Conceptos)* |
 
 ---
